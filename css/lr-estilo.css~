@@ -1,0 +1,65 @@
+/*!
+ * LRodrigo - CSS (http://lrodrigo.sgs.lncc.br)
+ */
+.borda-solida {
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+    padding: 10px;
+}
+
+.borda-solida {
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    padding: 10px;
+}
+
+.bg-azul {
+ background-color: #FFFAFA;
+}
+
+.bg-container {
+    background-color: cadetblue;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.h_titulo {
+    border-bottom-color: #555;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    padding-bottom: 10px;
+}
+
+.img-med {
+    width: 300px;
+}
+
+.img-center{
+    margin: 0 auto;
+}
+
+.sec-topico {
+    margin-bottom: 50px;
+    clear: both;
+}
+
+.mod-medio {
+    max-height:500px;
+    max-width:800px;
+}
+
+.bloco {
+    display: block;
+}
+
+.margin-inf {
+    margin-bottom: 20px;
+}
+
+.margin-sup {
+    margin-top: 20px;
+}
